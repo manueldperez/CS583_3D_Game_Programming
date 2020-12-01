@@ -1,0 +1,63 @@
+Game Producers
+
+Tommy Cao
+Lauryn Jefferson
+Guillermo Mata
+Manuel Perez
+
+UI
+menu art, Manuel
+logo, Guillermo
+
+Video
+fireworks, youtube.com
+
+Music
+
+Battle Fantasy!, Heatly Bros, youtube
+Dreams of Childhood, Heatly Bros, youtube
+Dream World, Heatly Bros, youtube
+Island Village!, Heatly Bros, youtube
+Option Menu!, Heatly Bros, youtube
+HeartBeat Suspense, Aspecty, youtube
+
+Textures
+
+
+from imgbin.com
+-Rubberband ball, by tseyik
+
+
+3djungle.net
+-boss floor
+-level 1 wall
+
+from 3dtextures.me
+-boss level wall
+-level 1 floor
+-level 2 wall
+-level 2 floor
+-level 1 track
+-level 2 track
+
+
+Models
+
+boss models, powerpoint
+arrow model, from https://clara.io/
+collectibles, Tommy
+
+
+Sounds
+
+thebeautybrains.com
+Freesound.org
+opengameart.org
+-Synth_beep_02.ogg  
+-Synth_laser_06.ogg   
+-Synth_misc_06.ogg   
+-Synth_misc_09.ogg  
+
+Inspired By
+
+Monkey Ball

@@ -1,0 +1,9 @@
+Movement
+Use the arrow keys to move the rubber band in the direction of your arrow key. The direction of the arrow keys will also determine the stage’s tilt. 
+Time 
+This is the time. You have been playing for this long. Try to reach the goal before your time goes too high! Your score increases for the less time you take to finish the game.
+Completing the stage
+At the end of each level, there is a box in which you have to land. Touching the box allows you teleport to the next stage.
+Extra Conditions
+For some level you must roll over a few platforms before being able to teleport to the next stage. The platforms will light up if you touch them all. 
+
